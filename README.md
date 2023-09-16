@@ -6,4 +6,4 @@ Esta es la rama para el Laboratorio 3
 
 localhost:5000/graphiql
 
-# $$ \small{\color{red} \texttt{Alterar código ya que el host.docker.internal no funciona en CodeSpaces}}$$	
+# $$ \small {\color{red} \texttt{Alterar código ya que el host.docker.internal no funciona en CodeSpaces}}$$	
