@@ -1,5 +1,5 @@
-from swarch2023i_ms.models.product_model import Product
-from swarch2023i_ms.serializers.product_serializer import ProductSerializer
+from swarch2023ii_ms.models.product_model import Product
+from swarch2023ii_ms.serializers.product_serializer import ProductSerializer
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status

@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from swarch2023i_ms.models.category_model import Category
+from swarch2023ii_ms.models.category_model import Category
 
 class CategorySerializer(serializers.ModelSerializer):
 

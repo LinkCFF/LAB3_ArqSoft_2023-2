@@ -1,9 +1,9 @@
 from django.urls import path
 from rest_framework.urlpatterns import format_suffix_patterns
-from swarch2023i_ms.views.category_view import CategoryList
-from swarch2023i_ms.views.category_view import CategoryDetail
-from swarch2023i_ms.views.product_view import ProductList
-from swarch2023i_ms.views.product_view import ProductDetail
+from swarch2023ii_ms.views.category_view import CategoryList
+from swarch2023ii_ms.views.category_view import CategoryDetail
+from swarch2023ii_ms.views.product_view import ProductList
+from swarch2023ii_ms.views.product_view import ProductDetail
 
 urlpatterns = [
     path('categories/', CategoryList.as_view()),

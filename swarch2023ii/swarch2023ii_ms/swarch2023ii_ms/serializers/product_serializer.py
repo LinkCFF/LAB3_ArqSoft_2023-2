@@ -1,7 +1,7 @@
 from rest_framework import serializers
-from swarch2023i_ms.models.product_model import Product
-from swarch2023i_ms.models.category_model import Category
-from swarch2023i_ms.serializers.category_serializer import CategorySerializer
+from swarch2023ii_ms.models.product_model import Product
+from swarch2023ii_ms.models.category_model import Category
+from swarch2023ii_ms.serializers.category_serializer import CategorySerializer
 
 class ProductSerializer(serializers.ModelSerializer):
 

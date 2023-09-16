@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'swarch2023i_ms.apps.Swarch2023iConfig'
+    'swarch2023ii_ms.apps.Swarch2023iConfig'
 ]
 
 MIDDLEWARE = [

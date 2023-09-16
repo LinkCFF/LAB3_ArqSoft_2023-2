@@ -7,4 +7,4 @@ class Category(models.Model):
     description = models.TextField(max_length = 140)
 
     class Meta:
-        app_label = 'swarch2023i_ms'
+        app_label = 'swarch2023ii_ms'

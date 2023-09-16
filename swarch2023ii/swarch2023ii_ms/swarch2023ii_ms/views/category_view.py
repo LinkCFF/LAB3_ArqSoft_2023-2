@@ -1,5 +1,5 @@
-from swarch2023i_ms.models.category_model import Category
-from swarch2023i_ms.serializers.category_serializer import CategorySerializer
+from swarch2023ii_ms.models.category_model import Category
+from swarch2023ii_ms.serializers.category_serializer import CategorySerializer
 from rest_framework import mixins
 from rest_framework import generics
 
