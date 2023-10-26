@@ -27,5 +27,7 @@ Para montar todo:
                 "name": "Categoría Swarch",
                 "description": "Categoría de ejemplo para la asignatura Arquitectura de Software 2023-II"
             }
-
+    en swarch2023ii_ag:
+        docker build -t swarch2023i_ag . 
+        docker run -p 5000:5000 swarch2023i_ag 
         
